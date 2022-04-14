@@ -7,8 +7,9 @@ This is possible on different devices along as the port number is the same and i
 
 ## Instructions ##
 ### How to Clone ###
-1) Download zip of repo
-2) 
+1) Download the Java files below
+![alt text](https://github.com/JadenNgoOT/Group-Project-Chat-Room-/blob/main/download.png?raw=true)
+
 
 ### How to Run ###
 1) Launch server
