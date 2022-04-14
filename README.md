@@ -18,6 +18,7 @@ This is possible on different devices along as the port number is the same and i
 
 ## Resources ##
 https://docs.oracle.com/javase/8/javase-clienttechnologies.htm
+https://www.geeksforgeeks.org/multithreaded-servers-in-java/#:~:text=Multithreaded%20Server%3A%20A%20server%20having,clients%20at%20the%20same%20time.
 
 ## Demo Video ##
 https://www.youtube.com/watch?v=-T0kDZHe78M
