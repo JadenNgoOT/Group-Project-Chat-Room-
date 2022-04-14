@@ -1,8 +1,8 @@
+package Assignments.GroupProject;
+
 import java.io.*;
 import java.net.Socket;
 import java.io.IOException;
-import java.net.ServerSocket;
-import java.net.Socket;
 import java.util.Scanner;
 
 public class ClientHandler implements Runnable {

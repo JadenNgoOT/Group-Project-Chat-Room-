@@ -1,3 +1,5 @@
+package Assignments.GroupProject;
+
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
@@ -13,7 +15,7 @@ public class ServerThread implements Runnable {
     }
 
     public void run() {
-        System.out.println("Server Listening on port: " + port);
+        System.out.println("GroupProject.Server Listening on port: " + port);
 
         //Constantly listens for new clients and adds them
         while(true){
@@ -22,7 +24,7 @@ public class ServerThread implements Runnable {
             try {
                 //Adds client
                 socket = serverSocket.accept();
-                System.out.println("New Client: Port: "  + socket.getPort() + " IP:" + socket.getInetAddress());
+                System.out.println("New GroupProject.Client: Port: "  + socket.getPort() + " IP:" + socket.getInetAddress());
             } catch (IOException e) {
                 System.out.println("Connection Terminated");
             }
